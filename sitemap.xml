@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://danielaortega.com.br/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Lote 01: Páginas de Cidade -->
+  <url>
+    <loc>https://danielaortega.com.br/psicopedagoga-itanhaem</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/psicopedagoga-peruibe</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/psicopedagoga-mongagua</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/psicopedagoga-itariri</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/psicopedagoga-pedro-de-toledo</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Lote 02: Páginas de Serviço -->
+  <url>
+    <loc>https://danielaortega.com.br/avaliacao-psicopedagogica</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/diagnostico-tea</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/orientacao-familiar</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/laudo-psicopedagogico</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/intervencao-dificuldade-aprendizagem</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Lote 03: Páginas Educacionais -->
+  <url>
+    <loc>https://danielaortega.com.br/o-que-e-tea</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/sinais-de-autismo</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/tdah-vs-dificuldade-aprendizagem</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/desenvolvimento-infantil-0-a-6-anos</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Lote 04: Blog -->
+  <url>
+    <loc>https://danielaortega.com.br/blog</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Lote 05: FAQ Expandido -->
+  <url>
+    <loc>https://danielaortega.com.br/faq/quanto-custa-avaliacao-psicopedagogica</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/faq/psicopedagogia-ou-psicologia</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/faq/laudo-psicopedagogico-para-escola</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/faq/meu-filho-nao-le-com-7-anos</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://danielaortega.com.br/faq/autismo-leve-precisa-de-acompanhamento</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
